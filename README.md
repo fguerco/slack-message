@@ -1,4 +1,4 @@
-# slack-msg - Send messages in slack
+# slack-message - Send messages in slack
 
 I made this tool to post some messages to slack as myself for some automation scripts
 
